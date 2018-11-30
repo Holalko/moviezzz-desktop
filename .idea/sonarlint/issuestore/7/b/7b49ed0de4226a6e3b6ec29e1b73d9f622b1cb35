@@ -1,0 +1,11 @@
+
+]squid:S00112o"FDefine and throw a dedicated exception instead of using a generic one.(õú¹
+]squid:S2147†"ECombine this catch with the one at line 130, which has the same body.(ï­£Ä
+@squid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Çı§æ8©©«ö,
+Fsquid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©©«ö,
+Fsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©©«ö,
+dsquid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(õú¹8©©«ö,
+bsquid:S2147X"DCombine this catch with the one at line 84, which has the same body.(ï­£Ä8©©«ö,

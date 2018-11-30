@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6c01cfe-5b74-4a32-8c03-c90ec77dbdb2" name="Default" comment="" />
+    <list default="true" id="1b2f252c-c685-41a4-abfc-4b179df45016" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2_javadoc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2_javadoc__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2_javadoc__3_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/196d559235242a1b4044676a6f71752f1c507e69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d50ee7958ed3ffb3ed1990abffa7afc6a735ef1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/321b058a460b39853a32450c506c53de841b7eb0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dd8d1ddd87e3ec9697112c5d512b5c0222ca091" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50a25817bde8b782bb704762487b2248a12019e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b0da25c8ed60453e2cf816139bca3aafe962807" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad8e8bd4ff8f02a914e3d9ca1bcc32dfc8c503a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af9366b1e3405a81b564590f32d01f3b780a2699" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd610e36256f7388f032d22ce6aa36e6b6cb4d49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c08e3d6aa10061a3e32516141a5edc110e7a00ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c12d311b8061b286e5e8f7b56e6a58f413e11e92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1311d532972c0f8a1cc2d6770fc230e413448a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7f153b45f364498d5872000c8f4e989c930b9fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc80a0fe10c1b2870baf4c111096e0aad17adcd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcd24fee9a80dbb1c68363cb66d89940af1708e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e75f763714200428400e89945a77d136feb9ecbe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moviezzz-desktop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/moviezzz-desktop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/AddNewMovieController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/AllMoviesController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/AllMoviesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/BorrowedMoviesController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/BorrowedMoviesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/JsonObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/MovieAlreadyExistsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/MovieCreatedController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/MovieInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/ScreenController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/addMovieWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/allMovies.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/borrowedMovies.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/menu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/movieAlreadyExists.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/movieCreated.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/moviezzz-desktop/sample/movieInfo.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/AddNewMovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/AddNewMovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/AllMoviesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/AllMoviesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/BorrowedMoviesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/BorrowedMoviesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/JsonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/JsonObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MovieAlreadyExistsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/MovieAlreadyExistsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MovieCreatedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/MovieCreatedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MovieInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/MovieInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/ScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/addMovieWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/addMovieWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/allMovies.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/allMovies.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/borrowedMovies.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/borrowedMovies.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/menu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/menu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/movieAlreadyExists.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/movieAlreadyExists.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/movieCreated.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/movieCreated.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/movieInfo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/moviezz/movieInfo.fxml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,165 +77,85 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/moviezz/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AllMoviesController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/AllMoviesController.java">
+        <entry file="file://$PROJECT_DIR$/src/moviezz/AllMoviesController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="83" column="33" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovieInfoController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sample/MovieInfoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movieInfo.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/movieInfo.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="153">
+              <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BorrowedMoviesController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/BorrowedMoviesController.java">
+        <entry file="file://$PROJECT_DIR$/src/moviezz/BorrowedMoviesController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="124" column="54" selection-start-line="124" selection-start-column="54" selection-end-line="124" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1001">
+              <caret line="124" column="30" selection-start-line="124" selection-start-column="30" selection-end-line="124" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AddNewMovieController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/AddNewMovieController.java">
+        <entry file="file://$PROJECT_DIR$/src/moviezz/AddNewMovieController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="35" column="30" selection-start-line="34" selection-start-column="3" selection-end-line="35" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="211">
+              <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BorrowedMovie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/models/BorrowedMovie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-              <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="borrowedMovies.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/borrowedMovies.fxml">
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-          <provider editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/moviezz/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/moviezz/ScreenController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="25" column="97" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="97" />
-              <folding>
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#1343#1344#0" expanded="true" />
-                <element signature="e#1371#1372#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/MenuController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/menu.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="37" />
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../../V. Semester/TAMZ2/NetActivity" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../V. Semester/TAMZ2/Semestralny projekt/caloric-counter" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../VŠB-TUO/V. Semester/TAMZ2/Semestralny projekt/caloric-counter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../TAMZ2/NetActivity" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../TAMZ2/Semestralny projekt/caloric-counter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../VŠB-TUO/V. Semester/TAMZ2/Semestralny projekt/caloric-counter" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/addMovieWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/BEConnection.java" />
-        <option value="$PROJECT_DIR$/src/sample/MovieCreatedController.java" />
-        <option value="$PROJECT_DIR$/src/sample/movieCreated.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/JsonObject.java" />
-        <option value="$PROJECT_DIR$/src/sample/MovieAlreadyExistsController.java" />
-        <option value="$PROJECT_DIR$/src/sample/movieAlreadyExists.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/AddNewMovieController.java" />
-        <option value="$PROJECT_DIR$/src/sample/login.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/Main.java" />
-        <option value="$PROJECT_DIR$/src/sample/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/sample/ScreenController.java" />
-        <option value="$PROJECT_DIR$/src/sample/allMovies.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/AllMoviesController.java" />
-        <option value="$PROJECT_DIR$/src/models/Borrowed.java" />
-        <option value="$PROJECT_DIR$/src/models/BorrowedMovie.java" />
-        <option value="$PROJECT_DIR$/src/sample/borrowedMovies.fxml" />
         <option value="$PROJECT_DIR$/src/sample/BorrowedMoviesController.java" />
-        <option value="$PROJECT_DIR$/src/sample/menu.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/MenuController.java" />
-        <option value="$PROJECT_DIR$/src/sample/movieInfo.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/MovieInfoController.java" />
+        <option value="$PROJECT_DIR$/src/moviezz/BorrowedMoviesController.java" />
+        <option value="$PROJECT_DIR$/src/moviezz/ScreenController.java" />
       </list>
     </option>
   </component>
@@ -190,8 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -199,11 +183,6 @@
             <path>
               <item name="moviezzz-desktop" type="b2602c69:ProjectViewProjectNode" />
               <item name="moviezzz-desktop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="moviezzz-desktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="moviezzz-desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="moviezzz-desktop" type="b2602c69:ProjectViewProjectNode" />
@@ -220,37 +199,28 @@
               <item name="moviezzz-desktop" type="b2602c69:ProjectViewProjectNode" />
               <item name="moviezzz-desktop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="moviezzz-desktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="moviezz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/gson-2.8.2-javadoc.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="models" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\holal\Documents\VSB-TUO\III. Semester\Programovací jazyky I\moviezzz-desktop\libs" />
-      <recent name="C:\Users\holal\Documents\VSB-TUO\III. Semester\Programovací jazyky I\moviezzz-desktop\src\sample" />
+      <recent name="C:\Users\holal\Documents\VSB-TUO\V. Semester\VIS\Moviezz\moviezzz-desktop\src\moviezz\allMovies" />
+      <recent name="C:\Users\holal\Documents\VSB-TUO\V. Semester\VIS\Moviezz\moviezzz-desktop\src\moviezz\addMovie" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,12 +237,12 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="MAIN_CLASS_NAME" value="moviezz.Main" />
       <module name="moviezzz-desktop" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="moviezz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,54 +299,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6c01cfe-5b74-4a32-8c03-c90ec77dbdb2" name="Default" comment="" />
-      <created>1543430964440</created>
+      <changelist id="1b2f252c-c685-41a4-abfc-4b179df45016" name="Default" comment="" />
+      <created>1543594547847</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543430964440</updated>
-      <workItem from="1543430967686" duration="5576000" />
-      <workItem from="1543512515466" duration="8647000" />
-      <workItem from="1543523675036" duration="3950000" />
-      <workItem from="1543593091247" duration="1053000" />
+      <updated>1543594547847</updated>
+      <workItem from="1543594553678" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19226000" />
+    <option name="totallyTimeSpent" value="522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32925585" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32925585" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Messages" weight="0.32925585" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32925585" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497309" />
-      <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2650357" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,436 +351,59 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="16" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sample/AllMoviesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="61" column="29" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="61" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MovieInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="112" column="25" lean-forward="true" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/BorrowedMoviesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="56" column="79" selection-start-line="56" selection-start-column="79" selection-end-line="56" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/AddNewMovieController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="30" selection-start-line="34" selection-start-column="3" selection-end-line="35" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/Borrowed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="97" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="97" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#1343#1344#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/BorrowedMovie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="67" column="30" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="67" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/ScreenController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/AllMoviesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="85" column="71" selection-start-line="85" selection-start-column="71" selection-end-line="85" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/JsonObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="97" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="97" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#1343#1344#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MovieInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
-          <caret line="115" column="72" selection-start-line="115" selection-start-column="72" selection-end-line="115" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/AddNewMovieController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/moviezz/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/BEConnection.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/MovieCreatedController.java">
+    <entry file="file://$PROJECT_DIR$/src/moviezz/AllMoviesController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="35" />
+        <state relative-caret-position="153">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MovieAlreadyExistsController.java">
+    <entry file="file://$PROJECT_DIR$/src/moviezz/BorrowedMoviesController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        <state relative-caret-position="1001">
+          <caret line="124" column="30" selection-start-line="124" selection-start-column="30" selection-end-line="124" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/ScreenController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/JsonObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="67" column="30" selection-start-line="35" selection-start-column="12" selection-end-line="67" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/moviezz/AddNewMovieController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
-          <caret line="110" column="25" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="25" />
+          <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="2569" selection-start-line="2569" selection-end-line="2569" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/gson-2.8.5.jar!/com/google/gson/Gson.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/Borrowed.java">
+    <entry file="file://$PROJECT_DIR$/src/moviezz/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/BorrowedMovie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/AddNewMovieController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="35" column="30" selection-start-line="34" selection-start-column="3" selection-end-line="35" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/AllMoviesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="83" column="33" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/borrowedMovies.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/BorrowedMoviesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="124" column="54" selection-start-line="124" selection-start-column="54" selection-end-line="124" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/menu.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/moviezz/ScreenController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="25" column="97" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="97" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#1343#1344#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/movieInfo.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/MovieInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8 (1)</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>moviezzz-desktop</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8 (1)</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>gson-2.8.2-javadoc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

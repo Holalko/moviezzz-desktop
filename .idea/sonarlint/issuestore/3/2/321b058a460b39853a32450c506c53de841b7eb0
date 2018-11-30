@@ -1,6 +1,0 @@
-
-usquid:S1192"^Define a constant instead of duplicating this literal "Invalid username or password!" 4 times.(‰Ÿ“
-]squid:S001127"FDefine and throw a dedicated exception instead of using a generic one.(õú¹
-[squid:S2147H"DCombine this catch with the one at line 69, which has the same body.(ï­£Ä
-?squid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-?squid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="moviezz.AllMoviesController">
+   <children>
+      <TableView fx:id="movieTable" layoutX="18.0" layoutY="14.0" prefHeight="384.0" prefWidth="573.0">
+        <columns>
+          <TableColumn fx:id="nameCol" prefWidth="75.0" text="Name" />
+          <TableColumn fx:id="yearCol" prefWidth="75.0" text="Year of release" />
+          <TableColumn fx:id="adultsCol" prefWidth="75.0" text="Adults only" />
+          <TableColumn fx:id="infoButton" prefWidth="75.0"  />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

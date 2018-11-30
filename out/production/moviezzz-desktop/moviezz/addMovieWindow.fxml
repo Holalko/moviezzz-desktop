@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480" prefWidth="640" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="moviezz.AddNewMovieController">
+   <children>
+      <VBox layoutX="10.0" layoutY="10.0">
+         <children>
+            <HBox>
+               <children>
+                  <Label prefWidth="150.0" text="Name: " />
+                  <TextField fx:id="nameField" />
+               </children>
+            </HBox>
+            <HBox>
+               <children>
+                  <Label prefWidth="150.0" text="Year of realease: " />
+                  <TextField fx:id="yearField" />
+               </children>
+            </HBox>
+            <HBox>
+               <children>
+                  <Label prefWidth="150.0" text="For adults: " />
+                  <CheckBox fx:id="forAdultsCheckbox" mnemonicParsing="false" text="Yes" />
+               </children>
+            </HBox>
+            <HBox>
+               <children>
+                  <Label prefWidth="150.0" text="Price: " />
+                  <TextField fx:id="priceField" />
+               </children>
+            </HBox>
+            <HBox>
+               <children>
+                  <Label prefWidth="150.0" text="Description:" />
+                  <TextArea fx:id="descriptionField" prefHeight="200.0" prefWidth="200.0" />
+               </children>
+               <padding>
+                  <Insets right="25.0" />
+               </padding>
+            </HBox>
+            <Label fx:id="validationMessage" textFill="#ff0e0e" />
+            <Button mnemonicParsing="false" onAction="#addMovieClick" text="Add movie" />
+         </children>
+      </VBox>
+   </children>
+</Pane>
