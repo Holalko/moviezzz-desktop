@@ -1,0 +1,7 @@
+
+dsquid:S00112m"FDefine and throw a dedicated exception instead of using a generic one.(õú¹8°–®Ýõ,
+wsquid:UselessImportCheck"GRemove this unused import 'com.sun.corba.se.impl.orbutil.ObjectWriter'.(—‘ïºüÿÿÿÿ8°–®Ýõ,
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(—‘ïºüÿÿÿÿ8°–®Ýõ,
+Gsquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8°–®Ýõ,
+dsquid:S2147ˆ"ECombine this catch with the one at line 134, which has the same body.(ï­£Ä8°–®Ýõ,
+Gsquid:S1148‰"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8°–®Ýõ,

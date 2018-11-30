@@ -1,0 +1,14 @@
+
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Çý§æ
+fsquid:S2259>"J"NullPointerException" will be thrown when invoking method "initFields()".(‹öðóýÿÿÿÿ
+]squid:S00112-"FDefine and throw a dedicated exception instead of using a generic one.(õú¹
+]squid:S00112e"FDefine and throw a dedicated exception instead of using a generic one.(õú¹
+[squid:S2147C"DCombine this catch with the one at line 63, which has the same body.(ï­£Ä
+\squid:S2147{"ECombine this catch with the one at line 119, which has the same body.(ï­£Ä
+gsquid:UselessImportCheck">Remove this unused import 'com.google.gson.reflect.TypeToken'.(Ýªýñøÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+?squid:S1148A"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148E"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148y"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148}"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
